@@ -75,6 +75,10 @@ Django is a free and open-source, Python-based web framework that runs on a web 
     <td><img src="https://i.ibb.co/HG7K1bZ/10.png"/></td>
   </tr>
   <tr>
+    <td><br/><br/></td>
+    <td><br/><br/></td>
+  <tr/>
+  <tr>
     <td><img src="https://i.ibb.co/C2KRSFq/11.png"/></td>
     <td><img src="https://i.ibb.co/HBCWGGK/12.png"/></td>
   </tr>
